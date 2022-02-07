@@ -1,2 +1,4 @@
 # testjava1
-An example for my class! Some more chanes
+An example for my class! 
+Some more cool stuff
+Man United
